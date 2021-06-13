@@ -1,0 +1,175 @@
+{
+    "device_info": [],
+    "fingerprint_swipe_down": {
+        "action_list": [],
+        "constraints": [],
+        "constraint_mode": 1,
+        "extras": [],
+        "flags": 0,
+        "enabled": true
+    },
+    "fingerprint_swipe_left": {
+        "action_list": [],
+        "constraints": [],
+        "constraint_mode": 1,
+        "extras": [],
+        "flags": 0,
+        "enabled": true
+    },
+    "fingerprint_swipe_right": {
+        "action_list": [],
+        "constraints": [],
+        "constraint_mode": 1,
+        "extras": [],
+        "flags": 0,
+        "enabled": true
+    },
+    "fingerprint_swipe_up": {
+        "action_list": [],
+        "constraints": [],
+        "constraint_mode": 1,
+        "extras": [],
+        "flags": 0,
+        "enabled": true
+    },
+    "keymap_list": [
+        {
+            "actionList": [
+                {
+                    "data": "92",
+                    "extras": [
+                        {
+                            "data": "0",
+                            "id": "extra_meta_state"
+                        }
+                    ],
+                    "flags": 4,
+                    "type": "KEY_EVENT",
+                    "uid": "f3da0176-b921-4dbc-9dd2-d31afa54bf5a"
+                }
+            ],
+            "constraintList": [
+                {
+                    "extras": [
+                        {
+                            "data": "com.mojang.minecraftpe",
+                            "id": "extra_package_name"
+                        }
+                    ],
+                    "type": "constraint_app_foreground"
+                }
+            ],
+            "constraintMode": 1,
+            "flags": 0,
+            "id": 1,
+            "isEnabled": true,
+            "trigger": {
+                "extras": [],
+                "flags": 0,
+                "keys": [
+                    {
+                        "clickType": 0,
+                        "deviceId": "io.github.sds100.keymapper.THIS_DEVICE",
+                        "flags": 0,
+                        "keyCode": 24,
+                        "uid": "38f54f37-2768-40ce-9dca-4f0f466a981c"
+                    }
+                ],
+                "mode": 2
+            },
+            "uid": "521105eb-50e2-4d3e-8ec2-447e3bf1800a"
+        },
+        {
+            "actionList": [
+                {
+                    "data": "93",
+                    "extras": [
+                        {
+                            "data": "0",
+                            "id": "extra_meta_state"
+                        }
+                    ],
+                    "flags": 4,
+                    "type": "KEY_EVENT",
+                    "uid": "7f163c1b-2493-4cfa-ad98-363f186f17a6"
+                }
+            ],
+            "constraintList": [
+                {
+                    "extras": [
+                        {
+                            "data": "com.mojang.minecraftpe",
+                            "id": "extra_package_name"
+                        }
+                    ],
+                    "type": "constraint_app_foreground"
+                }
+            ],
+            "constraintMode": 1,
+            "flags": 0,
+            "id": 2,
+            "isEnabled": true,
+            "trigger": {
+                "extras": [],
+                "flags": 0,
+                "keys": [
+                    {
+                        "clickType": 0,
+                        "deviceId": "io.github.sds100.keymapper.THIS_DEVICE",
+                        "flags": 0,
+                        "keyCode": 25,
+                        "uid": "6da46819-9b69-4032-8f6f-9e6e523911b1"
+                    }
+                ],
+                "mode": 2
+            },
+            "uid": "87806115-d883-4689-9d40-6db3c536c047"
+        },
+        {
+            "actionList": [
+                {
+                    "data": "59",
+                    "extras": [
+                        {
+                            "data": "0",
+                            "id": "extra_meta_state"
+                        }
+                    ],
+                    "flags": 8,
+                    "type": "KEY_EVENT",
+                    "uid": "c518f66f-1651-4a02-ac58-fe552d193ba2"
+                }
+            ],
+            "constraintList": [
+                {
+                    "extras": [
+                        {
+                            "data": "com.mojang.minecraftpe",
+                            "id": "extra_package_name"
+                        }
+                    ],
+                    "type": "constraint_app_foreground"
+                }
+            ],
+            "constraintMode": 1,
+            "flags": 0,
+            "id": 3,
+            "isEnabled": true,
+            "trigger": {
+                "extras": [],
+                "flags": 0,
+                "keys": [
+                    {
+                        "clickType": 1,
+                        "deviceId": "io.github.sds100.keymapper.THIS_DEVICE",
+                        "flags": 0,
+                        "keyCode": 25,
+                        "uid": "1cf9ff22-9962-426d-a9c6-8dc9b30a771d"
+                    }
+                ],
+                "mode": 2
+            },
+            "uid": "8a35af06-c160-4d30-93a6-56c8e47ed584"
+        }
+    ]
+}
